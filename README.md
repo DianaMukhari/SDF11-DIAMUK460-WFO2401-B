@@ -1,16 +1,5 @@
-# Installation
+Cache bank landing page
 
-```
-# Install dependencies
-npm install
+https://www.loom.com/share/95f831e0d6b94886aeb4f0cb4eb8ec64?sid=895ea373-e9ae-42c4-bed4-235412a9c16e
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
+https://docs.google.com/presentation/d/1fZbQpON5Jf917HTG4nS8j-FjNfrDVnz4WGzzWNjxZ8A/edit?usp=sharing
